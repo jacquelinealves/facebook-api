@@ -1,0 +1,24 @@
+/* ===
+	Basic style for the content
+===*/
+.api-response{
+	border-bottom: 1px solid #cacaca;
+	font-family: sans-serif;
+	margin: 0 auto;
+	min-height: 50px;
+	text-align: center;
+	padding: 15px 0;
+	width: 300px;
+}
+
+.api-response .login-button{
+	background-color: #cacaca;
+	border-radius: 5px;
+	padding: 10px 0;
+	min-width: 25%;
+}
+.api-response .login-button:hover{
+	background-color: #999;
+	color: #fff;
+
+}
